@@ -10,7 +10,7 @@ public class Singleton {
     private static Singleton singleton = new Singleton();
 
     private Singleton() {
-        // 싱글톤 핵심
+        // 싱글톤 핵심.
     }
 
     public static Singleton getInstance() {
