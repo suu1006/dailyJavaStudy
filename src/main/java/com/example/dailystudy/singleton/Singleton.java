@@ -1,4 +1,4 @@
-package com.example.dailystudy.Singleton;
+package com.example.dailystudy.singleton;
 
 /**
  * singleton의 핵심은  생성자는 private

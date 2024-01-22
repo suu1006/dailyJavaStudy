@@ -1,4 +1,4 @@
-package com.example.dailystudy.Singleton;
+package com.example.dailystudy.singleton;
 
 public class SingletonExample {
     public static void main(String[] args) {
